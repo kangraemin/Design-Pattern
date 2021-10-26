@@ -64,6 +64,8 @@ class WeatherData : Subject {
 
 Subject Interface와 Weather Data라는 구현 클래스를 작성합니다.
 
+Subject는 observer를 관리하며 (등록/삭제) 주제의 상태가 변경되었을때 변경되었음을 각 observer한태 알리는 일을 합니다.
+
 - Observer 객체를 저장하기 위해 arrayList를 추가하고 registerObserver와 removeObserver를 구현해줍니다.
 - notifyObservers 에서는 모든 데이터 변경되었을때 호출되면 등록된 모든Observers에 데이터가 변경되었음을 알립니다.
 - setMeasurements 에서는 측정 데이터를 받아서 속성을 변경하고 / 를 호출하여 데이터가 변경되었음을 알립니다.
@@ -113,4 +115,9 @@ fun main() {
     currentConditionDisplay.removeObserver()
     weatherData.setMeasurements(2f,2f,2f)
 }
+```
+
+```
+[실행결과]
+온도 : 1.0 / 습도 : 1.0 
 ```
