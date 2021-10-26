@@ -8,7 +8,7 @@ Duck에 SuperClass를 만들고 quack(), swim(), fly()의 공통된 메소드를
 
 하지만 여기서 문제가 생겼는데 SuperClass에 fly() quack() 메소드가 추가 되면서 일부 적합하지 않는 SubClass에도 전부 추가 되어 장난감 오리가 날고 꽥꽥 되는 문제가 발생한 것이다.
 
-1. 인터페이스 
+2. 인터페이스 
 
 ![strategy2.png](http://www.blogjava.net/images/blogjava_net/jedikings/test1.JPG)
 
@@ -18,7 +18,7 @@ display()나 swim() 같은 공통적인 메소드 들은 Duck이라는 SuperClas
 
 하지만 이방법은 행위 코드의 재사용이 불가능 해져서 코드의 중복이 발생하고 fly() 또는 quack()에서 변경해야 할 문제가 생긴다면 이를 구현 하고 있는 SUbclass들의 코드를 모두 변경 해줘야 하는 문제가 있다.
 
-1. Strategy Pattern
+3. Strategy Pattern
 
 ![https://user-images.githubusercontent.com/7943694/75566420-fa57bb00-5a92-11ea-94f9-cf561a19dc3c.png](https://user-images.githubusercontent.com/7943694/75566420-fa57bb00-5a92-11ea-94f9-cf561a19dc3c.png)
 
