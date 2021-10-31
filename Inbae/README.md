@@ -5,3 +5,8 @@
 
 ### Observer pattern
 - https://github.com/inbaeyoonkr/design-pattern/tree/observer-pattern
+
+<br>
+
+### Decorator pattern
+- https://github.com/inbaeyoonkr/design-pattern/tree/decorator-pattern
