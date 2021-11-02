@@ -16,6 +16,6 @@
 ### 4.팩토리 패턴
 
 - 정리 : [팩토리 패턴 정리](https://github.com/Gooreum/DesignPattern/blob/main/FactoryPattern/README.md)
-- 실습 : [팩토리 패턴 - 팩토림 메서드 실습](https://github.com/Gooreum/DesignPattern/blob/main/DesignPattern.playground/Pages/FactoryPattern_FactoryMethod.xcplaygroundpage/Contents.swift)
-        [팩토리 패턴 - 추상 팩토리 실습](https://github.com/Gooreum/DesignPattern/tree/main/DesignPattern.playground/Pages/FactoryPattern_AbstractFactory.xcplaygroundpage)
-
+- 실습 :
+    - [팩토리 패턴 - 팩토림 메서드 실습](https://github.com/Gooreum/DesignPattern/blob/main/DesignPattern.playground/Pages/FactoryPattern_FactoryMethod.xcplaygroundpage/Contents.swift)
+    - [팩토리 패턴 - 추상 팩토리 실습](https://github.com/Gooreum/DesignPattern/tree/main/DesignPattern.playground/Pages/FactoryPattern_AbstractFactory.xcplaygroundpage)
