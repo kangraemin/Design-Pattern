@@ -16,5 +16,12 @@
 ### Factory pattern
 - https://github.com/inbaeyoonkr/design-pattern/blob/factory-pattern/README.md
 
+<br>
+
+### Singleton pattern
+- https://github.com/inbaeyoonkr/design-pattern/tree/singleton-pattern
+
+<br>
+
 ### Command pattern
 - https://github.com/inbaeyoonkr/design-pattern/tree/command-pattern
