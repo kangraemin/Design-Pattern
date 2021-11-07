@@ -15,3 +15,6 @@
 
 ### Factory pattern
 - https://github.com/inbaeyoonkr/design-pattern/blob/factory-pattern/README.md
+
+### Command pattern
+- https://github.com/inbaeyoonkr/design-pattern/tree/command-pattern
