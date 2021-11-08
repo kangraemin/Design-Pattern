@@ -147,4 +147,6 @@ Class를 로딩하고 초기화하는 시점은 thread-safe를 보장하기 때�
     
 ![singleton_refactoring](singleton_refactoring.png)
     
-    - `Service A` 를 위해 만들어졌던 `Func 1` 을 다른 서비스들이 사용하기 시작한다. `Service A` 의 요구사항이 변경되어 `Func 1` 이 변경되면 이를 사용하는 모든 서비스들에게 변경 전파가 이루어진다. 그리고 이러한 Coupling 문제를 개선하기 위해 Singleton을 리팩토링 할 때의 영향도는 어플리케이션 전체가 된다
+    - `Service A` 를 위해 만들어졌던 `Func 1` 을 다른 서비스들이 사용하기 시작한다. 
+    `Service A` 의 요구사항이 변경되어 `Func 1` 이 변경되면 이를 사용하는 모든 서비스들에게 변경 전파가 이루어진다. 
+    그리고 이러한 Coupling 문제를 개선하기 위해 Singleton을 리팩토링 할 때의 영향도는 어플리케이션 전체가 된다
