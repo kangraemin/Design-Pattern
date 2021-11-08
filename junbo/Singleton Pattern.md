@@ -145,6 +145,6 @@ Class를 로딩하고 초기화하는 시점은 thread-safe를 보장하기 때�
     - Singleton을 사용하는 경우 대부분 인터페이스가 아닌 구현 클래스의 객체를 미리 생성해놓고 정적 메소드를 이용하여 구현하게 된다. 이는 SOLID 원칙을 위반할 수 있는 가능성이 있으며, 동시에 Singleton을 사용하는 곳과 Singleton Class 사이에 의존성이 생기게 됩니다. 이는 결합도를 높이는 행위로, 수정 및 단위테스트의 어려움이 생긴다.
 - 리팩토링에서의 영향도는 프로그램 전체가 된다.
     
-    ![singleton refactoring](singleton refactoring.png)
+![singleton_refactoring](singleton_refactoring.png)
     
     - `Service A` 를 위해 만들어졌던 `Func 1` 을 다른 서비스들이 사용하기 시작한다. `Service A` 의 요구사항이 변경되어 `Func 1` 이 변경되면 이를 사용하는 모든 서비스들에게 변경 전파가 이루어진다. 그리고 이러한 Coupling 문제를 개선하기 위해 Singleton을 리팩토링 할 때의 영향도는 어플리케이션 전체가 된다
