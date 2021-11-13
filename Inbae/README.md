@@ -25,3 +25,8 @@
 
 ### Command pattern
 - https://github.com/inbaeyoonkr/design-pattern/tree/command-pattern
+
+<br>
+
+### Template Method pattern
+- https://github.com/inbaeyoonkr/design-pattern/tree/template-method-pattern
