@@ -53,7 +53,8 @@ public class Tea extends CaffeineBeverage{
 }
 ```
 
-[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FccSzez%2Fbtq2Tcw9NKX%2F7EBKXKud8oWa16PRD80WU0%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FccSzez%2Fbtq2Tcw9NKX%2F7EBKXKud8oWa16PRD80WU0%2Fimg.png)
+![template](https://user-images.githubusercontent.com/46774431/141813715-2c7a15d1-e73f-4dba-b84d-7a2df88dc025.png)
+
 
 caffeineBeverage 클래스에서 해당 알고리즘을 독점(prepareRecipe())하는 것을 알수 있다. 그리고 이 알고리즘의 일부 구현만 서브 클래스에 의존한다. 그래서 알고리즘은 한 군데에 있기 때문에 그 부분만 고치면 된다
 
