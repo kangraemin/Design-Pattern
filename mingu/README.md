@@ -28,3 +28,14 @@
 
 - 정리 : [커맨드 패턴 정리](https://github.com/Gooreum/DesignPattern/blob/main/CommandPattern/README.md)
 - 실습 : [커맨드 패턴 실습](https://github.com/Gooreum/DesignPattern/blob/main/DesignPattern.playground/Pages/CommandPattern.xcplaygroundpage/Contents.swift)
+
+### 7.어댑터 & 파사드 패턴
+
+- 정리 : [어댑터 패턴 정리](https://github.com/Gooreum/DesignPattern/blob/main/AdapterPattern%20/README.md)
+- 정리 : [파사드 패턴 정리](https://github.com/Gooreum/DesignPattern/blob/main/FacadePattern/README.md)
+
+### 8.템플릿 메소드 패턴
+
+- 정리 : [템플릿 메소드 패턴 정리](https://github.com/Gooreum/DesignPattern/blob/main/TemplateMethodPattern/README.md)
+
+
