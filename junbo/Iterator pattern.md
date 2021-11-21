@@ -164,7 +164,7 @@ public class MenuTestDrive {
 > 자바의 Iterator 인터페이스는 hasNext(), next(), remove() 메소드를 가지고 있으므로 이들을 모두 구현해주어야 한다.
 > 
 
-![Iterator.PNG](Iterator%20pattern%208d86f6e57f794adeac2e5c2f205619fe/Iterator.png)
+![Iterator](https://user-images.githubusercontent.com/46774431/142768358-cc98edae-247c-4215-b07d-c9b83a54b512.PNG)
 
 ArrayList 를 사용하는 PancakeMenu 는 별도의 Iterator가 필요하지 않다.
 
