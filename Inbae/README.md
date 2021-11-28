@@ -45,3 +45,13 @@ https://github.com/inbaeyoonkr/design-pattern/tree/iterator-and-composite-patter
 
 ### State pattern
 https://github.com/inbaeyoonkr/design-pattern/tree/state-pattern
+
+<br>
+
+### Compound Pattern
+https://github.com/inbaeyoonkr/design-pattern/tree/compound_pattern
+
+<br>
+
+### Proxy pattern
+https://github.com/inbaeyoonkr/design-pattern/tree/proxy_pattern
