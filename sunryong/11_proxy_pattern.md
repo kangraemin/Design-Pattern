@@ -12,7 +12,7 @@
 
 ## 클래스 다이어그램
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%204b11e39dfb684151848af7929ea3c36f/Untitled.png)
+![Untitled](11/Untitled.png)
 
 **<Interface>Subject**
 
@@ -42,7 +42,7 @@ Proxy와 RealSubject가 모두 구현해야 하는 인터페이스.
 - 실제로 진짜 객체가 필요하게 되기 전까지 객체의 생성을 미루게 해 주는 기능을 제공하기도 합니다.
 - 객체 생성 도중에 객체를 대신하기도 하고 객체 생성이 완료되고 나면 그냥 RealSubject에 요청을 직접 전달해 줍니다.
 
-![Untitled](11%E1%84%8C%E1%85%A1%E1%86%BC%204b11e39dfb684151848af7929ea3c36f/Untitled%201.png)
+![Untitled](11/Untitled%201.png)
 
 ## CD 이미지 뷰어
 
